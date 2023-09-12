@@ -1,0 +1,22 @@
+{
+  "name": "tda-de-currency-format",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon test.js"
+  },
+  "keywords": ["Germany","Currency","Format"],
+  "author": "Thandar Aung",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mya-Thandar-Aung/de-currency-format.git"
+
+  },
+  "bugs": {
+    "url": "https://github.com/Mya-Thandar-Aung/de-currency-format/issues"
+  },
+  "homepage": "https://github.com/Mya-Thandar-Aung/de-currency-format#readme"
+}
